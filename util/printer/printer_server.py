@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from argparse import ArgumentParser
 from flask import Flask, Response, redirect, render_template, request, session, url_for, send_from_directory
 from werkzeug.utils import secure_filename
