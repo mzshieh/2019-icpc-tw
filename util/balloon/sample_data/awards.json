@@ -1,0 +1,137 @@
+[
+    {
+        "id": "group-winner-3",
+        "citation": "Winner(s) of group 3",
+        "team_ids": [
+            "1008"
+        ]
+    },
+    {
+        "id": "first-to-solve-22",
+        "citation": "First to solve problem 22",
+        "team_ids": [
+            "1008"
+        ]
+    },
+    {
+        "id": "first-to-solve-21",
+        "citation": "First to solve problem 21",
+        "team_ids": [
+            "1008"
+        ]
+    },
+    {
+        "id": "first-to-solve-27",
+        "citation": "First to solve problem 27",
+        "team_ids": [
+            "1008"
+        ]
+    },
+    {
+        "id": "first-to-solve-30",
+        "citation": "First to solve problem 30",
+        "team_ids": [
+            "1008"
+        ]
+    },
+    {
+        "id": "first-to-solve-36",
+        "citation": "First to solve problem 36",
+        "team_ids": [
+            "1008"
+        ]
+    },
+    {
+        "id": "first-to-solve-28",
+        "citation": "First to solve problem 28",
+        "team_ids": [
+            "1008"
+        ]
+    },
+    {
+        "id": "first-to-solve-29",
+        "citation": "First to solve problem 29",
+        "team_ids": [
+            "1008"
+        ]
+    },
+    {
+        "id": "first-to-solve-19",
+        "citation": "First to solve problem 19",
+        "team_ids": [
+            "1008"
+        ]
+    },
+    {
+        "id": "first-to-solve-20",
+        "citation": "First to solve problem 20",
+        "team_ids": [
+            "1010"
+        ]
+    },
+    {
+        "id": "first-to-solve-24",
+        "citation": "First to solve problem 24",
+        "team_ids": [
+            "1010"
+        ]
+    },
+    {
+        "id": "first-to-solve-33",
+        "citation": "First to solve problem 33",
+        "team_ids": [
+            "1012"
+        ]
+    },
+    {
+        "id": "first-to-solve-23",
+        "citation": "First to solve problem 23",
+        "team_ids": [
+            "1012"
+        ]
+    },
+    {
+        "id": "first-to-solve-26",
+        "citation": "First to solve problem 26",
+        "team_ids": [
+            "1012"
+        ]
+    },
+    {
+        "id": "winner",
+        "citation": "Contest winner",
+        "team_ids": [
+            "1008"
+        ]
+    },
+    {
+        "id": "gold-medal",
+        "citation": "Gold medal winner",
+        "team_ids": [
+            "1008",
+            "1012",
+            "1006",
+            "1015"
+        ]
+    },
+    {
+        "id": "silver-medal",
+        "citation": "Silver medal winner",
+        "team_ids": [
+            "1004",
+            "1009",
+            "1007",
+            "1002"
+        ]
+    },
+    {
+        "id": "bronze-medal",
+        "citation": "Bronze medal winner",
+        "team_ids": [
+            "1001",
+            "1003",
+            "1010",
+            "1013"
+        ]
+    }
+]

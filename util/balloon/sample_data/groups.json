@@ -1,0 +1,50 @@
+[
+    {
+        "hidden": false,
+        "icpc_id": "3",
+        "id": "3",
+        "name": "Participants",
+        "sortorder": 0,
+        "color": null
+    },
+    {
+        "hidden": false,
+        "icpc_id": "4",
+        "id": "4",
+        "name": "Observers",
+        "sortorder": 1,
+        "color": "#ffcc33"
+    },
+    {
+        "hidden": true,
+        "icpc_id": "5",
+        "id": "5",
+        "name": "Organisation",
+        "sortorder": 1,
+        "color": "#ff99cc"
+    },
+    {
+        "hidden": false,
+        "icpc_id": "2",
+        "id": "2",
+        "name": "Self-Registered",
+        "sortorder": 8,
+        "color": "#33cc44"
+    },
+    {
+        "hidden": true,
+        "icpc_id": "1",
+        "id": "1",
+        "name": "System",
+        "sortorder": 9,
+        "color": "#ff2bea"
+    },
+    {
+        "hidden": true,
+        "icpc_id": "6",
+        "id": "6",
+        "name": "Jury",
+        "sortorder": 100,
+        "color": null
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "id": "c",
+        "name": "C",
+        "extensions": [
+            "c"
+        ],
+        "allow_judge": true,
+        "time_factor": 1,
+        "require_entry_point": false,
+        "entry_point_description": null
+    },
+    {
+        "id": "cpp",
+        "name": "C++",
+        "extensions": [
+            "cpp",
+            "cc",
+            "cxx",
+            "c++"
+        ],
+        "allow_judge": true,
+        "time_factor": 1,
+        "require_entry_point": false,
+        "entry_point_description": null
+    },
+    {
+        "id": "java",
+        "name": "Java",
+        "extensions": [
+            "java"
+        ],
+        "allow_judge": true,
+        "time_factor": 1,
+        "require_entry_point": false,
+        "entry_point_description": "Main class"
+    },
+    {
+        "id": "kotlin",
+        "name": "Kotlin",
+        "extensions": [
+            "kt"
+        ],
+        "allow_judge": true,
+        "time_factor": 1,
+        "require_entry_point": true,
+        "entry_point_description": "Main class"
+    },
+    {
+        "id": "python2",
+        "name": "Python 2",
+        "extensions": [
+            "py2",
+            "py"
+        ],
+        "allow_judge": true,
+        "time_factor": 1,
+        "require_entry_point": false,
+        "entry_point_description": "Main file"
+    },
+    {
+        "id": "python3",
+        "name": "Python 3",
+        "extensions": [
+            "py3"
+        ],
+        "allow_judge": true,
+        "time_factor": 1,
+        "require_entry_point": false,
+        "entry_point_description": "Main file"
+    }
+]

@@ -1,0 +1,650 @@
+[
+    {
+        "externalid": null,
+        "group_ids": [
+            "1"
+        ],
+        "affiliation": null,
+        "id": "1",
+        "icpc_id": null,
+        "name": "DOMjudge",
+        "organization_id": null,
+        "members": null
+    },
+    {
+        "externalid": "exteam",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "Utrecht University",
+        "id": "2",
+        "icpc_id": "exteam",
+        "name": "Example teamname",
+        "organization_id": "1",
+        "members": null
+    },
+    {
+        "externalid": "team1001",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1001",
+        "icpc_id": "team1001",
+        "name": "Position 0",
+        "organization_id": "52",
+        "members": null
+    },
+    {
+        "externalid": "team1002",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1002",
+        "icpc_id": "team1002",
+        "name": "Pusheen",
+        "organization_id": "53",
+        "members": null
+    },
+    {
+        "externalid": "team1003",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1003",
+        "icpc_id": "team1003",
+        "name": "Hikari",
+        "organization_id": "54",
+        "members": null
+    },
+    {
+        "externalid": "team1004",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1004",
+        "icpc_id": "team1004",
+        "name": "Oimo",
+        "organization_id": "55",
+        "members": null
+    },
+    {
+        "externalid": "team1005",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1005",
+        "icpc_id": "team1005",
+        "name": "Bananice",
+        "organization_id": "56",
+        "members": null
+    },
+    {
+        "externalid": "team1006",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1006",
+        "icpc_id": "team1006",
+        "name": "Revue",
+        "organization_id": "57",
+        "members": null
+    },
+    {
+        "externalid": "team1007",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1007",
+        "icpc_id": "team1007",
+        "name": "Banana",
+        "organization_id": "58",
+        "members": null
+    },
+    {
+        "externalid": "team1008",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1008",
+        "icpc_id": "team1008",
+        "name": "TaNoShiI",
+        "organization_id": "59",
+        "members": null
+    },
+    {
+        "externalid": "team1009",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1009",
+        "icpc_id": "team1009",
+        "name": "Wakarimasu",
+        "organization_id": "60",
+        "members": null
+    },
+    {
+        "externalid": "team1010",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1010",
+        "icpc_id": "team1010",
+        "name": "Futaba",
+        "organization_id": "61",
+        "members": null
+    },
+    {
+        "externalid": "team1011",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1011",
+        "icpc_id": "team1011",
+        "name": "Starlight",
+        "organization_id": "62",
+        "members": null
+    },
+    {
+        "externalid": "team1012",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1012",
+        "icpc_id": "team1012",
+        "name": "Kirin",
+        "organization_id": "63",
+        "members": null
+    },
+    {
+        "externalid": "team1013",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1013",
+        "icpc_id": "team1013",
+        "name": "Saiseisan",
+        "organization_id": "64",
+        "members": null
+    },
+    {
+        "externalid": "team1014",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1014",
+        "icpc_id": "team1014",
+        "name": "team1014",
+        "organization_id": "65",
+        "members": null
+    },
+    {
+        "externalid": "team1015",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1015",
+        "icpc_id": "team1015",
+        "name": "Re:create",
+        "organization_id": "66",
+        "members": null
+    },
+    {
+        "externalid": "team1016",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1016",
+        "icpc_id": "team1016",
+        "name": "team1016",
+        "organization_id": "67",
+        "members": null
+    },
+    {
+        "externalid": "team1017",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1017",
+        "icpc_id": "team1017",
+        "name": "team1017",
+        "organization_id": "68",
+        "members": null
+    },
+    {
+        "externalid": "team1018",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1018",
+        "icpc_id": "team1018",
+        "name": "team1018",
+        "organization_id": "69",
+        "members": null
+    },
+    {
+        "externalid": "team1019",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1019",
+        "icpc_id": "team1019",
+        "name": "team1019",
+        "organization_id": "70",
+        "members": null
+    },
+    {
+        "externalid": "team1020",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1020",
+        "icpc_id": "team1020",
+        "name": "team1020",
+        "organization_id": "71",
+        "members": null
+    },
+    {
+        "externalid": "team1021",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1021",
+        "icpc_id": "team1021",
+        "name": "team1021",
+        "organization_id": "72",
+        "members": null
+    },
+    {
+        "externalid": "team1022",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1022",
+        "icpc_id": "team1022",
+        "name": "team1022",
+        "organization_id": "73",
+        "members": null
+    },
+    {
+        "externalid": "team1023",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1023",
+        "icpc_id": "team1023",
+        "name": "team1023",
+        "organization_id": "74",
+        "members": null
+    },
+    {
+        "externalid": "team1024",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1024",
+        "icpc_id": "team1024",
+        "name": "team1024",
+        "organization_id": "75",
+        "members": null
+    },
+    {
+        "externalid": "team1025",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1025",
+        "icpc_id": "team1025",
+        "name": "team1025",
+        "organization_id": "76",
+        "members": null
+    },
+    {
+        "externalid": "team1026",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1026",
+        "icpc_id": "team1026",
+        "name": "team1026",
+        "organization_id": "77",
+        "members": null
+    },
+    {
+        "externalid": "team1027",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1027",
+        "icpc_id": "team1027",
+        "name": "team1027",
+        "organization_id": "78",
+        "members": null
+    },
+    {
+        "externalid": "team1028",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1028",
+        "icpc_id": "team1028",
+        "name": "team1028",
+        "organization_id": "79",
+        "members": null
+    },
+    {
+        "externalid": "team1029",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1029",
+        "icpc_id": "team1029",
+        "name": "team1029",
+        "organization_id": "80",
+        "members": null
+    },
+    {
+        "externalid": "team1030",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1030",
+        "icpc_id": "team1030",
+        "name": "team1030",
+        "organization_id": "81",
+        "members": null
+    },
+    {
+        "externalid": "team1031",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1031",
+        "icpc_id": "team1031",
+        "name": "team1031",
+        "organization_id": "82",
+        "members": null
+    },
+    {
+        "externalid": "team1032",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1032",
+        "icpc_id": "team1032",
+        "name": "team1032",
+        "organization_id": "83",
+        "members": null
+    },
+    {
+        "externalid": "team1033",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1033",
+        "icpc_id": "team1033",
+        "name": "team1033",
+        "organization_id": "84",
+        "members": null
+    },
+    {
+        "externalid": "team1034",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1034",
+        "icpc_id": "team1034",
+        "name": "team1034",
+        "organization_id": "85",
+        "members": null
+    },
+    {
+        "externalid": "team1035",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1035",
+        "icpc_id": "team1035",
+        "name": "team1035",
+        "organization_id": "86",
+        "members": null
+    },
+    {
+        "externalid": "team1036",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1036",
+        "icpc_id": "team1036",
+        "name": "team1036",
+        "organization_id": "87",
+        "members": null
+    },
+    {
+        "externalid": "team1037",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1037",
+        "icpc_id": "team1037",
+        "name": "team1037",
+        "organization_id": "88",
+        "members": null
+    },
+    {
+        "externalid": "team1038",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1038",
+        "icpc_id": "team1038",
+        "name": "team1038",
+        "organization_id": "89",
+        "members": null
+    },
+    {
+        "externalid": "team1039",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1039",
+        "icpc_id": "team1039",
+        "name": "team1039",
+        "organization_id": "90",
+        "members": null
+    },
+    {
+        "externalid": "team1040",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1040",
+        "icpc_id": "team1040",
+        "name": "team1040",
+        "organization_id": "91",
+        "members": null
+    },
+    {
+        "externalid": "team1041",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1041",
+        "icpc_id": "team1041",
+        "name": "team1041",
+        "organization_id": "92",
+        "members": null
+    },
+    {
+        "externalid": "team1042",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1042",
+        "icpc_id": "team1042",
+        "name": "team1042",
+        "organization_id": "93",
+        "members": null
+    },
+    {
+        "externalid": "team1043",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1043",
+        "icpc_id": "team1043",
+        "name": "team1043",
+        "organization_id": "94",
+        "members": null
+    },
+    {
+        "externalid": "team1044",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1044",
+        "icpc_id": "team1044",
+        "name": "team1044",
+        "organization_id": "95",
+        "members": null
+    },
+    {
+        "externalid": "team1045",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1045",
+        "icpc_id": "team1045",
+        "name": "team1045",
+        "organization_id": "96",
+        "members": null
+    },
+    {
+        "externalid": "team1046",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1046",
+        "icpc_id": "team1046",
+        "name": "team1046",
+        "organization_id": "97",
+        "members": null
+    },
+    {
+        "externalid": "team1047",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1047",
+        "icpc_id": "team1047",
+        "name": "team1047",
+        "organization_id": "98",
+        "members": null
+    },
+    {
+        "externalid": "team1048",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1048",
+        "icpc_id": "team1048",
+        "name": "team1048",
+        "organization_id": "99",
+        "members": null
+    },
+    {
+        "externalid": "team1049",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1049",
+        "icpc_id": "team1049",
+        "name": "team1049",
+        "organization_id": "100",
+        "members": null
+    },
+    {
+        "externalid": "team1050",
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "National Chiao Tung University",
+        "id": "1050",
+        "icpc_id": "team1050",
+        "name": "team1050",
+        "organization_id": "101",
+        "members": null
+    },
+    {
+        "externalid": null,
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": null,
+        "id": "1052",
+        "icpc_id": null,
+        "name": "marmot0814",
+        "organization_id": null,
+        "members": null
+    },
+    {
+        "externalid": null,
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": null,
+        "id": "1053",
+        "icpc_id": null,
+        "name": "Mr. White",
+        "organization_id": null,
+        "members": null
+    }
+]
