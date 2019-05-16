@@ -23,8 +23,7 @@ args = parser.parse_args()
 
 os.makedirs('printed',exist_ok=True)
 
-with open(args.log,'at'):
-    pass
+with open(args.log,'at'): pass
 
 delivered = {}
 if args.cont:
@@ -36,10 +35,12 @@ if args.cont:
             except:
                 print('failed to parse old log:',line.strip(),file=sys.stderr)
 
+api_base = 'https://{}:{}@{}/domjudge/api/v4/contests/{}/'.format(
+                        args.account,args.password,args.url,args.id)+'{}'
+
 problems = None
 while not problems:
-    res = requests.get('https://{}:{}@{}/domjudge/api/v4/contests/{}/problems'.format(
-                        args.account,args.password,args.url,args.id))
+    res = requests.get(api_base.format('problems'))
     if res.status_code != 200:
         print('problems:',res.status_code)
         continue
@@ -51,14 +52,12 @@ submissions = {}
 judgements = {}
 while True:
     # print('Working')
-    res = requests.get('https://{}:{}@{}/domjudge/api/v4/contests/{}/judgements'.format(
-                       args.account,args.password,args.url,args.id))
+    res = requests.get(api_base.format('judgements'))
     if res.status_code != 200:
         print('judgements:',res.status_code)
         continue
     new_judge = json.loads(res.text)
-    res = requests.get('https://{}:{}@{}/domjudge/api/v4/contests/{}/submissions'.format(
-                       args.account,args.password,args.url,args.id))
+    res = requests.get(api_base.format('submissions'))
     if res.status_code != 200:
         print('submissions:',res.status_code)
         continue
