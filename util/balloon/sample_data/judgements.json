@@ -161,7 +161,7 @@
         "end_contest_time": "0:19:17.038",
         "id": "262",
         "submission_id": "67",
-        "valid": true,
+        "valid": false,
         "judgement_type_id": "AC"
     },
     {
@@ -183,7 +183,7 @@
         "end_contest_time": "0:19:22.774",
         "id": "264",
         "submission_id": "69",
-        "valid": true,
+        "valid": false,
         "judgement_type_id": "AC"
     },
     {
@@ -227,7 +227,7 @@
         "end_contest_time": "0:23:22.446",
         "id": "268",
         "submission_id": "73",
-        "valid": true,
+        "valid": false,
         "judgement_type_id": "AC"
     },
     {
@@ -249,7 +249,7 @@
         "end_contest_time": "0:23:50.681",
         "id": "270",
         "submission_id": "75",
-        "valid": true,
+        "valid": false,
         "judgement_type_id": "AC"
     },
     {
@@ -282,7 +282,7 @@
         "end_contest_time": "0:26:19.523",
         "id": "273",
         "submission_id": "78",
-        "valid": true,
+        "valid": false,
         "judgement_type_id": "WA"
     },
     {
@@ -304,7 +304,7 @@
         "end_contest_time": "0:28:02.221",
         "id": "275",
         "submission_id": "80",
-        "valid": true,
+        "valid": false,
         "judgement_type_id": "AC"
     },
     {
@@ -370,7 +370,7 @@
         "end_contest_time": "0:31:33.650",
         "id": "281",
         "submission_id": "86",
-        "valid": true,
+        "valid": false,
         "judgement_type_id": "AC"
     },
     {
@@ -392,7 +392,7 @@
         "end_contest_time": "0:33:26.826",
         "id": "283",
         "submission_id": "88",
-        "valid": true,
+        "valid": false,
         "judgement_type_id": "AC"
     },
     {
@@ -546,7 +546,7 @@
         "end_contest_time": "0:48:51.255",
         "id": "297",
         "submission_id": "102",
-        "valid": true,
+        "valid": false,
         "judgement_type_id": "AC"
     },
     {
@@ -557,7 +557,7 @@
         "end_contest_time": "0:49:05.789",
         "id": "298",
         "submission_id": "103",
-        "valid": true,
+        "valid": false,
         "judgement_type_id": "AC"
     },
     {
@@ -623,7 +623,7 @@
         "end_contest_time": "0:52:57.795",
         "id": "304",
         "submission_id": "109",
-        "valid": true,
+        "valid": false,
         "judgement_type_id": "AC"
     },
     {
@@ -645,7 +645,7 @@
         "end_contest_time": "0:54:08.234",
         "id": "306",
         "submission_id": "111",
-        "valid": true,
+        "valid": false,
         "judgement_type_id": "AC"
     },
     {
@@ -733,7 +733,7 @@
         "end_contest_time": "1:01:44.473",
         "id": "314",
         "submission_id": "119",
-        "valid": true,
+        "valid": false,
         "judgement_type_id": "AC"
     },
     {
@@ -1085,7 +1085,7 @@
         "end_contest_time": "1:32:34.318",
         "id": "346",
         "submission_id": "151",
-        "valid": true,
+        "valid": false,
         "judgement_type_id": "NO"
     },
     {
@@ -1107,7 +1107,7 @@
         "end_contest_time": "1:33:25.922",
         "id": "348",
         "submission_id": "153",
-        "valid": true,
+        "valid": false,
         "judgement_type_id": "AC"
     },
     {
@@ -1294,7 +1294,7 @@
         "end_contest_time": "1:54:14.569",
         "id": "365",
         "submission_id": "170",
-        "valid": true,
+        "valid": false,
         "judgement_type_id": "AC"
     },
     {
@@ -1415,7 +1415,7 @@
         "end_contest_time": "2:08:08.396",
         "id": "376",
         "submission_id": "181",
-        "valid": true,
+        "valid": false,
         "judgement_type_id": "AC"
     },
     {
@@ -2407,5 +2407,379 @@
         "submission_id": "271",
         "valid": true,
         "judgement_type_id": "WA"
+    },
+    {
+        "max_run_time": 0.001,
+        "start_time": "2019-05-16T02:33:04.355+00:00",
+        "start_contest_time": "16:03:04.355",
+        "end_time": "2019-05-16T02:33:10.936+00:00",
+        "end_contest_time": "16:03:10.936",
+        "id": "467",
+        "submission_id": "86",
+        "valid": false,
+        "judgement_type_id": "WA"
+    },
+    {
+        "max_run_time": 0.056,
+        "start_time": "2019-05-16T02:33:04.355+00:00",
+        "start_contest_time": "16:03:04.355",
+        "end_time": "2019-05-16T02:33:10.912+00:00",
+        "end_contest_time": "16:03:10.912",
+        "id": "468",
+        "submission_id": "109",
+        "valid": false,
+        "judgement_type_id": "WA"
+    },
+    {
+        "max_run_time": 0.002,
+        "start_time": "2019-05-16T02:33:04.359+00:00",
+        "start_contest_time": "16:03:04.359",
+        "end_time": "2019-05-16T02:33:10.651+00:00",
+        "end_contest_time": "16:03:10.651",
+        "id": "469",
+        "submission_id": "181",
+        "valid": false,
+        "judgement_type_id": "WA"
+    },
+    {
+        "max_run_time": 0.001,
+        "start_time": "2019-05-16T02:33:06.190+00:00",
+        "start_contest_time": "16:03:06.190",
+        "end_time": "2019-05-16T02:33:11.515+00:00",
+        "end_contest_time": "16:03:11.515",
+        "id": "470",
+        "submission_id": "69",
+        "valid": false,
+        "judgement_type_id": "WA"
+    },
+    {
+        "max_run_time": 0.001,
+        "start_time": "2019-05-16T02:33:06.226+00:00",
+        "start_contest_time": "16:03:06.226",
+        "end_time": "2019-05-16T02:33:11.307+00:00",
+        "end_contest_time": "16:03:11.307",
+        "id": "471",
+        "submission_id": "103",
+        "valid": false,
+        "judgement_type_id": "WA"
+    },
+    {
+        "max_run_time": 0.001,
+        "start_time": "2019-05-16T02:33:06.230+00:00",
+        "start_contest_time": "16:03:06.230",
+        "end_time": "2019-05-16T02:33:15.722+00:00",
+        "end_contest_time": "16:03:15.722",
+        "id": "472",
+        "submission_id": "75",
+        "valid": false,
+        "judgement_type_id": "WA"
+    },
+    {
+        "max_run_time": 0,
+        "start_time": "2019-05-16T02:33:06.306+00:00",
+        "start_contest_time": "16:03:06.306",
+        "end_time": "2019-05-16T02:33:15.889+00:00",
+        "end_contest_time": "16:03:15.889",
+        "id": "473",
+        "submission_id": "151",
+        "valid": false,
+        "judgement_type_id": "WA"
+    },
+    {
+        "max_run_time": 0.002,
+        "start_time": "2019-05-16T02:33:06.311+00:00",
+        "start_contest_time": "16:03:06.311",
+        "end_time": "2019-05-16T02:33:13.337+00:00",
+        "end_contest_time": "16:03:13.337",
+        "id": "474",
+        "submission_id": "153",
+        "valid": false,
+        "judgement_type_id": "WA"
+    },
+    {
+        "max_run_time": 0.001,
+        "start_time": "2019-05-16T02:33:11.166+00:00",
+        "start_contest_time": "16:03:11.166",
+        "end_time": "2019-05-16T02:33:16.561+00:00",
+        "end_contest_time": "16:03:16.561",
+        "id": "475",
+        "submission_id": "119",
+        "valid": false,
+        "judgement_type_id": "WA"
+    },
+    {
+        "max_run_time": 0.002,
+        "start_time": "2019-05-16T02:33:11.416+00:00",
+        "start_contest_time": "16:03:11.416",
+        "end_time": "2019-05-16T02:33:16.956+00:00",
+        "end_contest_time": "16:03:16.956",
+        "id": "476",
+        "submission_id": "102",
+        "valid": false,
+        "judgement_type_id": "WA"
+    },
+    {
+        "max_run_time": 0.002,
+        "start_time": "2019-05-16T02:33:11.438+00:00",
+        "start_contest_time": "16:03:11.437",
+        "end_time": "2019-05-16T02:33:18.268+00:00",
+        "end_contest_time": "16:03:18.268",
+        "id": "477",
+        "submission_id": "88",
+        "valid": false,
+        "judgement_type_id": "WA"
+    },
+    {
+        "max_run_time": 0.002,
+        "start_time": "2019-05-16T02:33:11.770+00:00",
+        "start_contest_time": "16:03:11.770",
+        "end_time": "2019-05-16T02:33:18.215+00:00",
+        "end_contest_time": "16:03:18.215",
+        "id": "478",
+        "submission_id": "170",
+        "valid": false,
+        "judgement_type_id": "WA"
+    },
+    {
+        "max_run_time": 0.012,
+        "start_time": "2019-05-16T02:33:12.023+00:00",
+        "start_contest_time": "16:03:12.023",
+        "end_time": "2019-05-16T02:33:17.104+00:00",
+        "end_contest_time": "16:03:17.104",
+        "id": "479",
+        "submission_id": "73",
+        "valid": false,
+        "judgement_type_id": "WA"
+    },
+    {
+        "max_run_time": 0.001,
+        "start_time": "2019-05-16T02:33:13.687+00:00",
+        "start_contest_time": "16:03:13.687",
+        "end_time": "2019-05-16T02:33:18.637+00:00",
+        "end_contest_time": "16:03:18.637",
+        "id": "480",
+        "submission_id": "78",
+        "valid": false,
+        "judgement_type_id": "WA"
+    },
+    {
+        "max_run_time": 0.064,
+        "start_time": "2019-05-16T02:33:16.099+00:00",
+        "start_contest_time": "16:03:16.099",
+        "end_time": "2019-05-16T02:33:20.602+00:00",
+        "end_contest_time": "16:03:20.602",
+        "id": "481",
+        "submission_id": "67",
+        "valid": false,
+        "judgement_type_id": "RTE"
+    },
+    {
+        "max_run_time": 0.001,
+        "start_time": "2019-05-16T02:33:16.312+00:00",
+        "start_contest_time": "16:03:16.312",
+        "end_time": "2019-05-16T02:33:20.876+00:00",
+        "end_contest_time": "16:03:20.876",
+        "id": "482",
+        "submission_id": "111",
+        "valid": false,
+        "judgement_type_id": "WA"
+    },
+    {
+        "max_run_time": 0.001,
+        "start_time": "2019-05-16T02:33:17.052+00:00",
+        "start_contest_time": "16:03:17.052",
+        "end_time": "2019-05-16T02:33:21.571+00:00",
+        "end_contest_time": "16:03:21.571",
+        "id": "483",
+        "submission_id": "80",
+        "valid": false,
+        "judgement_type_id": "WA"
+    },
+    {
+        "max_run_time": 0.056,
+        "start_time": "2019-05-16T02:39:01.835+00:00",
+        "start_contest_time": "16:09:01.835",
+        "end_time": "2019-05-16T02:39:07.803+00:00",
+        "end_contest_time": "16:09:07.803",
+        "id": "484",
+        "submission_id": "109",
+        "valid": true,
+        "judgement_type_id": "AC"
+    },
+    {
+        "max_run_time": 0.001,
+        "start_time": "2019-05-16T02:39:03.919+00:00",
+        "start_contest_time": "16:09:03.919",
+        "end_time": "2019-05-16T02:39:10.251+00:00",
+        "end_contest_time": "16:09:10.251",
+        "id": "485",
+        "submission_id": "86",
+        "valid": true,
+        "judgement_type_id": "AC"
+    },
+    {
+        "max_run_time": 0.001,
+        "start_time": "2019-05-16T02:39:03.939+00:00",
+        "start_contest_time": "16:09:03.939",
+        "end_time": "2019-05-16T02:39:10.114+00:00",
+        "end_contest_time": "16:09:10.114",
+        "id": "486",
+        "submission_id": "181",
+        "valid": true,
+        "judgement_type_id": "AC"
+    },
+    {
+        "max_run_time": 0.001,
+        "start_time": "2019-05-16T02:39:04.743+00:00",
+        "start_contest_time": "16:09:04.743",
+        "end_time": "2019-05-16T02:39:09.689+00:00",
+        "end_contest_time": "16:09:09.689",
+        "id": "487",
+        "submission_id": "69",
+        "valid": true,
+        "judgement_type_id": "AC"
+    },
+    {
+        "max_run_time": 0.001,
+        "start_time": "2019-05-16T02:39:05.237+00:00",
+        "start_contest_time": "16:09:05.237",
+        "end_time": "2019-05-16T02:39:11.614+00:00",
+        "end_contest_time": "16:09:11.614",
+        "id": "488",
+        "submission_id": "75",
+        "valid": true,
+        "judgement_type_id": "AC"
+    },
+    {
+        "max_run_time": 0.001,
+        "start_time": "2019-05-16T02:39:05.356+00:00",
+        "start_contest_time": "16:09:05.356",
+        "end_time": "2019-05-16T02:39:09.936+00:00",
+        "end_contest_time": "16:09:09.936",
+        "id": "489",
+        "submission_id": "103",
+        "valid": true,
+        "judgement_type_id": "AC"
+    },
+    {
+        "max_run_time": 0.002,
+        "start_time": "2019-05-16T02:39:06.583+00:00",
+        "start_contest_time": "16:09:06.583",
+        "end_time": "2019-05-16T02:39:13.002+00:00",
+        "end_contest_time": "16:09:13.002",
+        "id": "490",
+        "submission_id": "153",
+        "valid": true,
+        "judgement_type_id": "AC"
+    },
+    {
+        "max_run_time": 0.001,
+        "start_time": "2019-05-16T02:39:06.587+00:00",
+        "start_contest_time": "16:09:06.587",
+        "end_time": "2019-05-16T02:39:13.227+00:00",
+        "end_contest_time": "16:09:13.227",
+        "id": "491",
+        "submission_id": "151",
+        "valid": true,
+        "judgement_type_id": "NO"
+    },
+    {
+        "max_run_time": 0.001,
+        "start_time": "2019-05-16T02:39:08.158+00:00",
+        "start_contest_time": "16:09:08.158",
+        "end_time": "2019-05-16T02:39:13.370+00:00",
+        "end_contest_time": "16:09:13.370",
+        "id": "492",
+        "submission_id": "119",
+        "valid": true,
+        "judgement_type_id": "AC"
+    },
+    {
+        "max_run_time": 0.003,
+        "start_time": "2019-05-16T02:39:10.028+00:00",
+        "start_contest_time": "16:09:10.028",
+        "end_time": "2019-05-16T02:39:15.047+00:00",
+        "end_contest_time": "16:09:15.047",
+        "id": "493",
+        "submission_id": "102",
+        "valid": true,
+        "judgement_type_id": "AC"
+    },
+    {
+        "max_run_time": 0.002,
+        "start_time": "2019-05-16T02:39:10.313+00:00",
+        "start_contest_time": "16:09:10.313",
+        "end_time": "2019-05-16T02:39:16.592+00:00",
+        "end_contest_time": "16:09:16.592",
+        "id": "494",
+        "submission_id": "88",
+        "valid": true,
+        "judgement_type_id": "AC"
+    },
+    {
+        "max_run_time": 0.001,
+        "start_time": "2019-05-16T02:39:10.523+00:00",
+        "start_contest_time": "16:09:10.523",
+        "end_time": "2019-05-16T02:39:16.912+00:00",
+        "end_contest_time": "16:09:16.912",
+        "id": "495",
+        "submission_id": "170",
+        "valid": true,
+        "judgement_type_id": "AC"
+    },
+    {
+        "max_run_time": 0.012,
+        "start_time": "2019-05-16T02:39:10.732+00:00",
+        "start_contest_time": "16:09:10.732",
+        "end_time": "2019-05-16T02:39:15.607+00:00",
+        "end_contest_time": "16:09:15.607",
+        "id": "496",
+        "submission_id": "73",
+        "valid": true,
+        "judgement_type_id": "AC"
+    },
+    {
+        "max_run_time": 0.067,
+        "start_time": "2019-05-16T02:39:11.903+00:00",
+        "start_contest_time": "16:09:11.903",
+        "end_time": "2019-05-16T02:39:16.631+00:00",
+        "end_contest_time": "16:09:16.631",
+        "id": "497",
+        "submission_id": "67",
+        "valid": true,
+        "judgement_type_id": "AC"
+    },
+    {
+        "max_run_time": 0.001,
+        "start_time": "2019-05-16T02:39:13.389+00:00",
+        "start_contest_time": "16:09:13.389",
+        "end_time": "2019-05-16T02:39:18.141+00:00",
+        "end_contest_time": "16:09:18.141",
+        "id": "498",
+        "submission_id": "111",
+        "valid": true,
+        "judgement_type_id": "AC"
+    },
+    {
+        "max_run_time": 0.001,
+        "start_time": "2019-05-16T02:39:13.681+00:00",
+        "start_contest_time": "16:09:13.681",
+        "end_time": "2019-05-16T02:39:18.346+00:00",
+        "end_contest_time": "16:09:18.345",
+        "id": "499",
+        "submission_id": "78",
+        "valid": true,
+        "judgement_type_id": "WA"
+    },
+    {
+        "max_run_time": 0.001,
+        "start_time": "2019-05-16T02:39:13.806+00:00",
+        "start_contest_time": "16:09:13.806",
+        "end_time": "2019-05-16T02:39:18.564+00:00",
+        "end_contest_time": "16:09:18.564",
+        "id": "500",
+        "submission_id": "80",
+        "valid": true,
+        "judgement_type_id": "AC"
     }
 ]
