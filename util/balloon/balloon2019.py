@@ -46,16 +46,19 @@ for line in sys.stdin:
         pid[data.get('id')]=chr(ord('A')+data.get('ordinal'))
     elif data_type == 'submissions':
         submission[data.get('id')]={'pid':pid.get(data.get('problem_id')),
-                'tid':data.get('team_id')}
+                'tid':data.get('team_id'),
+                'sid':data.get('id'),
+                'time':data.get('contest_time')}
     elif data_type == 'judgements':
         jid[data.get('id')]=submission[data.get('submission_id')]
     elif data_type == 'runs' and data.get('judgement_type_id') in acceptable:
-        runID = data.get('judgement_id')
+        runID = jid[data.get('judgement_id')].get('sid')
         probID = jid[data.get('judgement_id')].get('pid')
         teamID = jid[data.get('judgement_id')].get('tid')
-        penalty = data.get('contest_time').split(':')
+        penalty = jid[data.get('judgement_id')].get('time').split(':')
         penalty = int(penalty[0])*60 + int(penalty[1])
-    if data_type != 'runs': continue
+    if data_type != 'runs' or data.get('judgement_type_id') not in acceptable:
+        continue
     if (teamID,probID) not in delivered:
         filename = 'printed/T{}_P{}_R{}'.format(teamID,probID,runID)
         with open(filename,'wt') as FILE:
