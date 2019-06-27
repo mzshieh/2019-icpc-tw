@@ -8,11 +8,11 @@ import requests
 parser = argparse.ArgumentParser(description="Balloon Sheet Printer")
 parser.add_argument('-a','--account',default='balloon',
                     help='DOMjudge API reader account (default: balloon)')
-parser.add_argument('-p','--password',default='0982987923mzmzmzmz',
-                    help='Password (default: 0982987923mzmzmzmz)')
-parser.add_argument('-u','--url',default='dom.paga.moe',
+parser.add_argument('-p','--password',default='balloon',
+                    help='Password (default: balloon)')
+parser.add_argument('-u','--url',default='localhost',
                     help='DOMjudge url')
-parser.add_argument('-i','--id',default=3,
+parser.add_argument('-i','--id',default=4,
                     help='Contest ID')
 parser.add_argument('-l','--log',default='delivered.log',
                     help='Store delivered balloons (default: delivered.log)')
@@ -35,7 +35,7 @@ if args.cont:
             except:
                 print('failed to parse old log:',line.strip(),file=sys.stderr)
 
-api_base = 'https://{}:{}@{}/domjudge/api/v4/contests/{}/'.format(
+api_base = 'http://{}:{}@{}/domjudge/api/v4/contests/{}/'.format(
                         args.account,args.password,args.url,args.id)+'{}'
 
 problems = None
@@ -88,8 +88,8 @@ while True:
 
 
 
-  Team {} solved Problem {}
-  Run {} at {} minutes
+  team{} solved problem {}
+  ID s{} at {} minutes
 
 
 
@@ -97,7 +97,7 @@ while True:
 
       Delivered by:
 '''.format(teamID,probID,runID,penalty),file=FILE)
-            # run(['lp','-o','lpi=1.9','-o','cpi=3.5',filename])
+            run(['lp','-o','lpi=1.9','-o','cpi=3.6',filename])
             print('Run {}: Team'.format(runID),teamID,'solved',probID,'at',penalty)
             with open(args.log,'at') as FILE:
                 print(teamID,probID,runID,penalty,file=FILE)
