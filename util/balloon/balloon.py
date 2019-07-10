@@ -96,7 +96,7 @@ while True:
 
 
       Delivered by:
-'''.format(teamID,probID,runID,penalty),file=FILE)
+'''.format(teamID,probID[-1],runID,penalty),file=FILE)
             run(['lp','-o','lpi=1.9','-o','cpi=3.6',filename])
             print('Run {}: Team'.format(runID),teamID,'solved',probID,'at',penalty)
             with open(args.log,'at') as FILE:
